@@ -6,7 +6,7 @@ Dish purchasing system
 
 ## Configuration
 
-docker up
+docker-compose up
 
 ## Installation
 
